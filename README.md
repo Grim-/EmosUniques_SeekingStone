@@ -1,2 +1,1 @@
-# EmosUniques_SeekingStone
- 
+# Outward Mod Template
